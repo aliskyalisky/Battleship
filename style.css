@@ -25,7 +25,7 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.2);
-    background-image: url(../img/ocean.jpg);
+    background-image: url(./img/ocean.jpg);
     background-size: cover;
     background-position: bottom;
     background-blend-mode:color-burn;
@@ -205,7 +205,7 @@ body {
     border: 4px outset #8a694d;
     border-radius: 5px;
     background: var(--brownlr);
-    background-image: url(../img/paper.jpg);
+    background-image: url(./img/paper.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 5px #222;
@@ -245,7 +245,7 @@ body {
     border: 4px outset #8a694d;
     border-radius: 5px;
     background: var(--brownlr);
-    background-image: url(../img/paper.jpg);
+    background-image: url(./img/paper.jpg);
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 5px #222;
